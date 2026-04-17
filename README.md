@@ -147,13 +147,4 @@ Tableau Public Story:
 https://public.tableau.com/app/profile/sana.aarsman/viz/vanguard_ab_test_MAIN_FILE_17695015283890/Presentation?publish=yes
 
 
-## 👥 Team Contributions
-
-- Data cleaning (Python/Pandas) — Anna
-- Exploratory analysis & Tableau dashboards — Anna, Blanca, Sana
-- Experiment evaluation & insights — Anna, Blanca, Sana
-- Presentation design & slides — Anna, Blanca, Sana
-- Presentation delivery — Sana, Prabhsheen
-- Repository management & GitHub — Prabhsheen
-
 
